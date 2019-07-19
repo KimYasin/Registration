@@ -16,7 +16,7 @@
     <string name="loginEmail">Email</string>
     <string name="loginPassword">Password</string>
     <string name="decidebutton">DECIDE!</string>
-    <string name="add_new_food">add new food...</string>
+    <string name="add_new_food">add new food</string>
     <string name="add_food">ADD FOOD</string>
     <string name="african_tea">African Tea</string>
 
@@ -24,5 +24,7 @@
     <string name="titlehint">enter title</string>
     <string name="des">enter description of note</string>
     <string name="forget_password">Forgot Password? Reset</string>
-    <string name="splash">My Notes Loading...</string>
+    <string name="splash">My Notes Loading</string>
+    <string name="Search">Search</string>
+    <string name="addmenu">Add</string>
 </resources>
