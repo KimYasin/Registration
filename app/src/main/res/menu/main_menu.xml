@@ -5,7 +5,7 @@
     <item
             android:id="@+id/addNote"
             android:icon="@drawable/ic_note_add_black_24dp"
-            android:title="@string/add"
+            android:title="@string/addmenu"
             app:showAsAction="ifRoom" />
     <item
             android:id="@+id/app_bar_search"
